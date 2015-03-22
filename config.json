@@ -1,0 +1,11 @@
+{
+	"twilio": {
+		"accountSid" : "[account Sid goes here]", 
+		"authToken" : "[auth token goes here]"
+	},
+	"relayr" : {
+		"appId" : "[]",
+		"devId": "[]",
+		"token":  "[]"
+	}
+}
